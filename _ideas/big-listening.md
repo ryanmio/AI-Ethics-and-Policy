@@ -1,6 +1,0 @@
----
-title: Big Listening
-date: 2023-01-31 22:27:03
----
-
-If we can readily match social media handles to the voter file at scale, then we can conduct "big listening" operations to find out what voters are talking about online. That data can then be incorporated into canvassing operations and the like. Civitech attempted to build such a tool but found difficulty in adoption, due to the overall organizing experience. See in particular [this Great Battlefield episode](https://resistancedashboard.com/node/1090), at 48:03. Mike Conlow also discussed this idea in [his Great Battlefield interview](https://www.resistancedashboard.com/node/550), at 44:26. This discussion has a different emphasis, around using social media activity to personalize website and email experiences for constituents. Joe Pounder also mentions this idea in [his Business of Politics interview](https://podcast.startupcaucus.com/1833138/9922138-how-political-entrepreneurs-can-break-into-public-affairs-joe-pounder-bullpen-strategy-group), at 21:48.

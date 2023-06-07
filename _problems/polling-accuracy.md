@@ -1,6 +1,0 @@
----
-title: Polling accuracy
-date: 2023-03-18 09:00
----
-
-There is significant uncertainty about polling accuracy. It's widely perceived that the polls did not accurately predict the presidential elections of 2016 and 2020 - in each case the actual results favored Republicans relative to the prevailing polling heading into Election Day. These problems with polling accuracy tended to impact down-ballot races as well; for instance, Republicans did better in the Senate in 2020 than polls predicted. Some argue that the problem is due to declining rates of response on landlines, and that pollsters should begin incorporating online panels in their methodology; others claim it is a symptom of partisanship; others contend that elections with a strong theme of anti-establishment sentiment are likely to reduce polling accuracy, because pollsters are thought by some respondents to be part of the establishment. In any event, this problem significantly impacts campaigns, because it is difficult for them to efficiently allocate resources. As a result, entrepreneurs have an opportunity to experiment with new methodologies, as [PredictWise](https://www.predictwise.com/) has done.

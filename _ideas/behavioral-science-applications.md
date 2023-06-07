@@ -1,6 +1,0 @@
----
-title: Behavioral Science Applications
-date: 2023-05-20 11:13:10
----
-
-The success of vote tripling is one example of a behavioral science application in politics: it's a specific and mildly-difficult task that is designed to make it easy for voters to engage with it and accomplish it. In a Great Battlefield interview with the founders of Vote Tripling, Robert Reynolds mentions that there are [other political problems which could benefit from behavioral science applications](https://www.resistancedashboard.com/node/844) at the 34:30 mark. These problems include downballot drop-off, heavyweight relational organizing, persuasion, and so forth. Alongside program innovations that apply behavioral science to these problems, there is also a need to minimize the time between publication of a randomized control test of that program, and wide adoption of the program. Mondale Robinson also mentioned using similar techniques in his [interview about Black Male Voter Project](http://www.resistancedashboard.com/node/822). As a general rule, this approach is an important tool in devising programs that can attack these problems. 
