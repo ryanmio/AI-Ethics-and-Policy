@@ -4,7 +4,7 @@
 
 ## **Ethics and Transparency**
 
-- Employees are expected to consider and address potential ethical concerns in their use of AI, such as issues of bias and exploitation.
+- Employees are expected to consider and address potential ethical concerns in their use of AI, such as issues of bias, privacy violations, and misuse of personal data.
 - Any use of AI must comply with our organization's existing data privacy and confidentiality policies to ensure the protection of sensitive information.
 
 
