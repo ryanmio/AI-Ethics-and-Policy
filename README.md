@@ -50,7 +50,7 @@
 - We will engage in an ongoing dialogue with peer organizations to stay informed about best practices and emerging issues in AI use.
 
 ---
-> The following is an extension of the core policy for organizations wishing the establish guidelines for disclaiming the use of AI technology in public facing communications or other work product.
+> The following is an extension of the core policy for organizations seeking to establish guidelines for disclosing the use of AI technology in public-facing communications or other work products.
 
 ## **Definition and Disclaimer of AI-Written Content**
 
