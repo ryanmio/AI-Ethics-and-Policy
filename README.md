@@ -1,10 +1,14 @@
+> # **Introduction**
+> This repository contains the AI Integration and Experimentation Policy for our agency. The policy outlines our approach to the ethical use of AI, promotion of experimentation, protection against data breaches, and more. It is designed to guide our employees in their use of AI technologies, particularly Large Language Models (LLMs), in their work.
+
+
 # **Agency AI Integration and Experimentation Policy**
 
 ---
 
 ## **Ethics and Transparency**
 
-- Employees are expected to consider and address potential ethical concerns in their use of AI, such as issues of bias, privacy violations, and misuse of personal data.
+- Employees are expected to consider and uphold the highest ethical standards in their use of AI, including ensuring fairness, transparency, and privacy.
 - Any use of AI must comply with our organization's existing data privacy and confidentiality policies to ensure the protection of sensitive information.
 
 
@@ -78,3 +82,17 @@ This test evaluates the degree and impact of human input in crafting the key mes
 ## **Test 3: Degree of AI Autonomy and Narrative Control**
 
 This test assesses the degree of AI autonomy, especially regarding content distribution. In the context of a political fundraising campaign, each piece of communication - be it an email, text, or ad - forms a part of a larger narrative, like chapters in a book. Together, these chapters construct the complete campaign narrative, each contributing to the overall message. If an AI tool independently determines the sequence, timing, and recipient of these communications, it effectively contributes to shaping the narrative. Therefore, if the AI tool operates without substantial human influence in these decisions, the content should be considered AI-authored. If a human is making these key decisions, even based on AI-provided data, it passes the test.
+
+---
+
+# Contributing
+I welcome contributions to this policy. If you have suggestions for improvements or additions, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch in your forked repository.
+3. Make your changes in the new branch.
+4. Submit a pull request detailing the changes you've made.
+
+# License
+This policy is released under the MIT License. You are free to use, modify, and distribute this policy, provided that you include the original copyright notice and disclaimers.
+
