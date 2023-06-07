@@ -1,7 +1,7 @@
 > This repository contains a sample AI Integration and Experimentation Policy. The policy outlines our approach to the ethical use of AI, promotion of experimentation, and protection against data breaches. It is designed to guide the integration of AI technologies, particularly Large Language Models (LLMs).
 
 
-# **Agency AI Integration and Experimentation Policy**
+# **AI Integration and Experimentation Policy**
 
 ---
 
