@@ -49,12 +49,10 @@
 - This policy will be regularly reviewed and updated as necessary to adapt to the rapidly changing field of AI technology.
 - We will engage in an ongoing dialogue with peer organizations to stay informed about best practices and emerging issues in AI use.
 
-<br>
 ---
-<br>
 
 > The following is an extension of the core policy for organizations seeking to establish guidelines for disclosing the use of AI technology in public-facing communications or other work products.
-<br>
+
 
 ## **Definition and Disclaimer of AI-Written Content**
 
