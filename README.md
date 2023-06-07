@@ -67,15 +67,24 @@
 
 ---
 
-# Three-Part Test for Defining AI-Written Content
+# **Three-Part Test for Defining AI-Written Content**
 
 This test is designed to distinguish between AI-written and AI-assisted content. Content can be categorized as AI-written if it meets the following criteria:
 
-## Test 1: Source of Functionally Impactful Ideas
+---
+
+## **Test 1: Source of Functionally Impactful Ideas**
+
 The origin of the core content or ideas is evaluated. If an AI tool primarily generated the ideas that drive the function of the message, the content should be considered AI-authored. On the other hand, if an AI tool was merely instrumental in refining or enhancing a human's original ideas without contributing new functionally impactful ideas, the content passes this test.
 
-## Test 2: Degree and Impact of Human Input
+---
+
+## **Test 2: Degree and Impact of Human Input**
+
 This test evaluates the degree and impact of human input in crafting the key message, framing, or call-to-action. If a human substantively alters or contributes to these crucial elements, the content passes this test. Conversely, if an AI substantively alters or contributes to these crucial elements, the content should be considered AI-authored.
 
-## Test 3: Degree of AI Autonomy and Narrative Control
+---
+
+## **Test 3: Degree of AI Autonomy and Narrative Control**
+
 This test assesses the degree of AI autonomy, especially regarding content distribution. In the context of a political fundraising campaign, each piece of communication - be it an email, text, or ad - forms a part of a larger narrative, like chapters in a book. Together, these chapters construct the complete campaign narrative, each contributing to the overall message. If an AI tool independently determines the sequence, timing, and recipient of these communications, it effectively contributes to shaping the narrative. Therefore, if the AI tool operates without substantial human influence in these decisions, the content should be considered AI-authored. If a human is making these key decisions, even based on AI-provided data, it passes the test.
