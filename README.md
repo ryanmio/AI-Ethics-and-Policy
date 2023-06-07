@@ -88,7 +88,7 @@ This test assesses the degree of AI autonomy, especially regarding content distr
 ---
 
 # Contributing
-I welcome contributions to this policy. If you have suggestions for improvements or additions, please follow these steps:
+Contributions to this policy are welcome. If you have suggestions for improvements or additions, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch in your forked repository.
