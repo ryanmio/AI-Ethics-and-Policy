@@ -7,7 +7,6 @@
 - Employees are expected to consider and address potential ethical concerns in their use of AI, such as issues of bias and exploitation.
 - Any use of AI must comply with our organization's existing data privacy and confidentiality policies to ensure the protection of sensitive information.
 
----
 
 ## **Promotion of Experimentation**
 
@@ -16,7 +15,6 @@
 - Feedback mechanisms should be established where employees can voice their experiences, challenges, and successes in AI experimentation.
 - We advocate for continued education and training in AI technologies. Educational stipends or dedicated time for such activities may be provided.
 
----
 
 ## **Protection Against Data Breaches**
 
@@ -29,14 +27,12 @@
   - Any information subject to non-disclosure agreements (NDAs)
 - **Any significant use of AI technologies, especially in the case of new projects or integration into existing processes, should be reported to managers or supervisors.**
 
----
 
 ## **Evaluating and Mitigating AI Risks**
 
 - Our organization will conduct regular risk assessments of our AI use, taking into account potential threats to data security, privacy, and ethical standards.
 - Our organization will maintain a dedicated team or designate a person responsible for overseeing the ethical use of AI and addressing any issues that arise.
 
----
 
 ## **Respect for Industry Professionals**
 
@@ -44,7 +40,6 @@
 - We encourage our employees to cultivate and refine their uniquely human capabilities, such as strategic thinking, creative problem-solving, and empathetic communication, which are indispensable even as we increasingly integrate AI tools in our operations.
 - Professionals are advised not to overly rely on AI for their work and to balance the use of AI tools with human skills and judgment.
 
----
 
 ## **Adaptability**
 
@@ -70,19 +65,16 @@
 
 This test is designed to distinguish between AI-written and AI-assisted content. Content can be categorized as AI-written if it meets the following criteria:
 
----
 
 ## **Test 1: Source of Functionally Impactful Ideas**
 
 The origin of the core content or ideas is evaluated. If an AI tool primarily generated the ideas that drive the function of the message, the content should be considered AI-authored. On the other hand, if an AI tool was merely instrumental in refining or enhancing a human's original ideas without contributing new functionally impactful ideas, the content passes this test.
 
----
 
 ## **Test 2: Degree and Impact of Human Input**
 
 This test evaluates the degree and impact of human input in crafting the key message, framing, or call-to-action. If a human substantively alters or contributes to these crucial elements, the content passes this test. Conversely, if an AI substantively alters or contributes to these crucial elements, the content should be considered AI-authored.
 
----
 
 ## **Test 3: Degree of AI Autonomy and Narrative Control**
 
