@@ -14,24 +14,25 @@ Organizations may refer to these guidelines in light of their specific context, 
 
 ## Table of Contents
 
-1. [Ethical Use of AI](#ethical-use-of-ai)
-2. [Managing Risks Associated with AI Usage](#managing-risks-associated-with-ai-usage)
-3. [Risk Evaluation and Mitigation](#risk-evaluation-and-mitigation)
-4. [Oversight of AI Usage](#oversight-of-ai-usage)
-5. [Dispute Resolution and AI Misuse](#dispute-resolution-and-ai-misuse)
-6. [AI and Biases](#ai-and-biases)
-7. [Data Shared with AI](#data-shared-with-ai)
-8. [Use of Authorized AI Tools](#use-of-authorized-ai-tools)
-9. [AI Training and Development](#ai-training-and-development)
-10. [AI Experimentation](#ai-experimentation)
-11. [Using Company-Provided AI Tools](#using-company-provided-ai-tools)
-12. [Access Control to AI Tools](#access-control-to-ai-tools)
-13. [Controlling AI Tool Installation & Data Access](#controlling-ai-tool-installation-&-data-access)
-14. [Reporting New AI Uses](#reporting-new-ai-uses)
-15. [Integration with Other Organizational Policies](#integration-with-other-organizational-policies)
-16. [Continuous Review and Update of Policies](#continuous-review-and-update-of-policies)
-17. [Avoiding LLM Hallucinations](#avoiding-llm-hallucinations)
-18. [Ensuring AI Accuracy](#ensuring-ai-accuracy)
+1. [Ethical Use of AI](#1-ethical-use-of-ai)
+2. [Managing Risks Associated with AI Usage](#2-managing-risks-associated-with-ai-usage)
+3. [Risk Evaluation and Mitigation](#3-risk-evaluation-and-mitigation)
+4. [Oversight of AI Usage](#4-oversight-of-ai-usage)
+5. [Dispute Resolution and AI Misuse](#5-dispute-resolution-and-ai-misuse)
+6. [AI and Biases](#6-ai-and-biases)
+7. [Data Shared with AI](#7-data-shared-with-ai)
+8. [Use of Authorized AI Tools](#8-use-of-authorized-ai-tools)
+9. [AI Training and Development](#9-ai-training-and-development)
+10. [AI Experimentation](#10-ai-experimentation)
+11. [Using Company-Provided AI Tools](#11-using-company-provided-ai-tools)
+12. [Access Control to AI Tools](#12-access-control-to-ai-tools)
+13. [Controlling AI Tool Installation & Data Access](#13-controlling-ai-tool-installation--data-access)
+14. [Reporting New AI Uses](#14-reporting-new-ai-uses)
+15. [Integration with Other Organizational Policies](#15-integration-with-other-organizational-policies)
+16. [Continuous Review and Update of Policies](#16-continuous-review-and-update-of-policies)
+17. [Avoiding LLM Hallucinations](#17-avoiding-llm-hallucinations)
+18. [Ensuring AI Accuracy](#18-ensuring-ai-accuracy)
+
 
 ---
 
