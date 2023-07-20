@@ -37,7 +37,7 @@ Organizations may refer to these guidelines in light of their specific context, 
 ---
 
 ## # Ethics and Risk Management
-Ethics and risk management form the cornerstone of any AI deployment. The ethical use of AI, especially Generative AI, requires organizations to ensure fairness, transparency, and respect for privacy. Additionally, the risks associated with AI usage, from inaccurate outputs to potential misuse, need to be carefully managed. Failing to do so can not only lead to operational issues but also damage an organization's reputation and legal standing.
+The ethical use of AI, especially Generative AI, requires organizations to ensure fairness, transparency, and respect for privacy. Additionally, the risks associated with AI usage, from inaccurate outputs to potential misuse, need to be carefully managed. Failing to do so can not only lead to operational issues but also damage an organization's reputation and legal standing.
 
 ## 1. Ethical Use of AI
 
