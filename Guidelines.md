@@ -1,5 +1,17 @@
 # AI Policy Guidelines
 
+The purpose of these guidelines is to assist organizations in effectively implementing and managing generative artificial intelligence (Generative AI). The document is structured into categories, each addressing a significant aspect of AI use.
+
+Each topic within these categories is presented at three levels: **Good**, **Better**, and **Best**:
+
+- `Good`: Represents a foundation level that covers essential practices.
+- `Better`: Builds upon the good practices, offering a more optimized balance between resource allocation and advancement in AI practices.
+- `Best`: Represents the ideal practices, which may require substantial resources but can potentially yield high returns.
+
+It's worth noting that the "Best" level isn't necessarily a goal for every organization. Rather, it serves as a reference point for what is possible given unlimited resources. The "Better" level, on the other hand, is often a more realistic target for many organizations, given its balance of costs and benefits.
+
+Organizations may refer to these guidelines in light of their specific context, resources, and strategic objectives. The goal is to incorporate AI in a responsible and efficient manner that aligns with your organization's mission and values.
+
 ## Table of Contents
 
 1. [Ethical Use of AI](#ethical-use-of-ai)
@@ -7,30 +19,29 @@
 3. [Risk Evaluation and Mitigation](#risk-evaluation-and-mitigation)
 4. [Oversight of AI Usage](#oversight-of-ai-usage)
 5. [Dispute Resolution and AI Misuse](#dispute-resolution-and-ai-misuse)
-6. [Data Shared with AI](#data-shared-with-ai)
-7. [AI and Biases](#ai-and-biases)
-8. [Data Shared with AI v2](#data-shared-with-ai-v2)
-9. [AI and Biases v2](#ai-and-biases-v2)
-10. [Use of Authorized AI Tools](#use-of-authorized-ai-tools)
-11. [AI Training and Development](#ai-training-and-development)
-12. [AI Experimentation](#ai-experimentation)
-13. [Using Company-Provided AI Tools](#using-company-provided-ai-tools)
-14. [Access Control to AI Tools](#access-control-to-ai-tools)
-15. [Controlling AI Tool Installation & Data Access](#controlling-ai-tool-installation-&-data-access)
-16. [Reporting New AI Uses](#reporting-new-ai-uses)
-17. [Integrating AI into Workflow](#integrating-ai-into-workflow)
-18. [AI Strategy for Organizations of Different Sizes](#ai-strategy-for-organizations-of-different-sizes)
-19. [Integration with Other Organizational Policies](#integration-with-other-organizational-policies)
-20. [Transparency](#transparency)
-21. [Continuous Review and Update of Policies](#continuous-review-and-update-of-policies)
-22. [Avoiding LLM Hallucinations](#avoiding-llm-hallucinations)
-23. [Ensuring AI Accuracy](#ensuring-ai-accuracy)
-24. [Accessibility and AI](#accessibility-and-ai)
-25. [External AI Services](#external-ai-services)
+6. [AI and Biases](#ai-and-biases)
+7. [Data Shared with AI](#data-shared-with-ai)
+8. [Use of Authorized AI Tools](#use-of-authorized-ai-tools)
+9. [AI Training and Development](#ai-training-and-development)
+10. [AI Experimentation](#ai-experimentation)
+11. [Using Company-Provided AI Tools](#using-company-provided-ai-tools)
+12. [Access Control to AI Tools](#access-control-to-ai-tools)
+13. [Controlling AI Tool Installation & Data Access](#controlling-ai-tool-installation-&-data-access)
+14. [Reporting New AI Uses](#reporting-new-ai-uses)
+15. [Integrating AI into Workflow](#integrating-ai-into-workflow)
+16. [AI Strategy for Organizations of Different Sizes](#ai-strategy-for-organizations-of-different-sizes)
+17. [Integration with Other Organizational Policies](#integration-with-other-organizational-policies)
+18. [Transparency](#transparency)
+19. [Continuous Review and Update of Policies](#continuous-review-and-update-of-policies)
+20. [Avoiding LLM Hallucinations](#avoiding-llm-hallucinations)
+21. [Ensuring AI Accuracy](#ensuring-ai-accuracy)
+22. [Accessibility and AI](#accessibility-and-ai)
+23. [External AI Services](#external-ai-services)
 
 ---
 
 ## # Ethics and Risk Management
+Ethics and risk management form the cornerstone of any AI deployment. The ethical use of AI, especially Generative AI, requires organizations to ensure fairness, transparency, and respect for privacy. Additionally, the risks associated with AI usage, from inaccurate outputs to potential misuse, need to be carefully managed. Failing to do so can not only lead to operational issues but also damage an organization's reputation and legal standing.
 
 ## 1. Ethical Use of AI
 
@@ -45,8 +56,8 @@
 | Policy Level | Description |
 |--------------|-------------|
 | Good | Encourage employees to thoroughly review all AI outputs for accuracy, relevance, and potential issues, including any costs associated with unoptimized or excessive use. Promote a culture of consultation and peer review when employees are unsure. |
-| Better | Require employees to conduct detailed checks on AI outputs for significant or high-risk tasks. Implement simple AI usage guidelines that help avoid common pitfalls such as excessive API calls, unchecked loops in AI-generated code, or exposure to sensitive information. |
-| Best | Establish a comprehensive framework for AI risk management, including procedures for testing, verification, and validation of AI outputs in high-risk areas. Set up AI usage monitoring and real-time alert systems to track abnormal AI behavior. Regularly conduct AI risk training and audits. Develop a rapid response strategy to address any AI-related issues that arise. |
+| Better | Require employees to conduct detailed checks on AI outputs for significant or high-risk tasks. Implement simple AI usage guidelines that help avoid common pitfalls or exposure to sensitive information. |
+| Best | Establish a comprehensive framework for AI risk management, including procedures for testing, verification, and validation of AI outputs in high-risk areas. Regularly conduct AI risk training and audits. Develop a rapid response strategy to address any AI-related issues that arise. |
 
 ## 3. Risk Evaluation and Mitigation
 
@@ -72,43 +83,28 @@
 | Better | Implement a process for reporting and investigating potential AI misuse. |
 | Best | Establish a formal dispute resolution procedure for handling issues arising from AI use. The process should be transparent, fair, and should outline potential penalties for intentional misuse. |
 
----
-
-## # Data and Bias Management
-
-## 6. Data Shared with AI
+## 6. AI and Biases
 
 | Policy Level | Description |
 |--------------|-------------|
-| Good | Encourage employees to think carefully about the data they share with LLMs or other third-party tools. |
+| Good | Encourage employees to be aware of and account for potential AI biases in their work, such as those based on gender, race, age, or socioeconomic status. |
+| Better | Provide employees with training on how AI can reflect and perpetuate biases. For example, if an AI is trained on data that contains gender bias, it may make recommendations that unfairly favor one gender over another. |
+| Best | Create a dedicated team to monitor AI outputs for potential biases and develop an action plan for addressing any identified issues. This team should work proactively to minimize biases in AI inputs and processes, guided by a strong commitment to fairness and equality. For example, they might regularly test AI candidate recruitment systems with a diverse range of inputs to ensure fair treatment of all groups. |
+
+---
+
+## # Data Security and Privacy
+
+
+## 7. Data Shared with AI
+
+| Policy Level | Description |
+|--------------|-------------|
+| Good | Encourage employees to think carefully about the data they share with LLMs or other third-party tools, considering privacy and security implications. |
 | Better | Provide explicit guidelines on types of data that should not be shared with AI, including private, sensitive, or confidential information. |
 | Best | Prohibit employees from disclosing any sensitive data, and list specific examples of things employees may not want to feed into AI tools like ChatGPT. Also, offer regular training and audits to ensure compliance. |
 
-## 7. AI and Biases
-
-| Policy Level | Description |
-|--------------|-------------|
-| Good | Encourage employees to be aware of and account for potential AI biases in their work. |
-| Better | Provide employees with training on how AI can reflect and perpetuate biases, and give them strategies for mitigating these biases. |
-| Best | Create a dedicated team to monitor AI outputs for potential biases and develop an action plan for addressing any identified issues. This team should also work proactively to minimize biases in AI inputs and processes, guided by a strong commitment to fairness and equality. |
-
-## 8. Data Shared with AI v2
-
-| Policy Level | Description |
-|--------------|-------------|
-| Good | Encourage employees to think carefully about the data they share with AI, considering privacy and security implications. |
-| Better | Provide explicit guidelines on types of data that should not be shared with AI, including private, sensitive, or confidential information. For example, data containing personally identifiable information (PII) like names, addresses, or social security numbers should not be shared without proper anonymization. |
-| Best | Prohibit employees from disclosing any sensitive data, and list specific examples of things employees may not want to feed into AI tools like ChatGPT. Also, offer regular training and audits to ensure compliance. Data security measures, such as encryption and de-identification techniques, should be used to protect sensitive data. |
-
-## 9. AI and Biases v2
-
-| Policy Level | Description |
-|--------------|-------------|
-| Good | Encourage employees to be aware of potential AI biases, such as those based on gender, race, age, or socioeconomic status. |
-| Better | Provide employees with training on how AI can reflect and perpetuate biases. For example, if an AI is trained on data that contains gender bias, it may make recommendations that unfairly favor one gender over another. |
-| Best | Create a dedicated team to monitor AI outputs for potential biases and develop an action plan for addressing any identified issues. This team should work proactively to minimize biases in AI inputs and processes, guided by a strong commitment to fairness and equality. For example, they might regularly test AI systems with a diverse range of inputs to ensure fair treatment of all groups. |
-
-## 10. Use of Authorized AI Tools
+## 8. Use of Authorized AI Tools
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -119,8 +115,9 @@
 ---
 
 ## # AI Tools and Training
+Misusing AI tools can lead to serious issues, including privacy breaches and data leaks. Organizations should maintain oversight and control access to AI tool and invest in AI training and development.
 
-## 11. AI Training and Development
+## 9. AI Training and Development
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -128,7 +125,7 @@
 | Better | Provide regular in-house training sessions and resources for AI technology. |
 | Best | Establish a comprehensive AI training and certification program for all employees. Require completion for anyone working directly with AI technologies. |
 
-## 12. AI Experimentation
+## 10. AI Experimentation
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -136,7 +133,7 @@
 | Better | Experiment with ChatGPT+, Midjourney, freemium browser plugins like Compose.ai, and look at new AI features in your existing tech stack. Utilize integrations/connecting up (Zapier) and experiment with APIs (whisper). |
 | Best | Experiment with OpenAI APIs and Github Co-pilot. Consider setting up experimental projects, like building a tech stack that includes an LLM on a cloud provider, or use transfer learning to make domain-specific bots (if you have enough training data). |
 
-## 13. Using Company-Provided AI Tools
+## 11. Using Company-Provided AI Tools
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -144,7 +141,7 @@
 | Better | Require employees to use company-provided AI accounts for all work-related AI tasks. Establish guidelines around what constitutes appropriate use of these accounts and provide regular training to ensure employees understand these guidelines. |
 | Best | Establish a policy that all work-related AI tasks must be conducted using company-provided AI accounts. Implement monitoring and auditing mechanisms to review usage and enforce the policy. Offer regular training sessions and provide a channel for employees to ask questions or report potential misuse. |
 
-## 14. Access Control to AI Tools
+## 12. Access Control to AI Tools
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -152,7 +149,7 @@
 | Better | Implement a policy that only allows employees to use approved AI tools for work-related tasks. Regularly review and update the list of approved tools. |
 | Best | Use network-level controls, such as firewalls or content filtering, to block access to unauthorized AI websites or services from work devices. Regularly review and update these controls to reflect changes in approved tools. Be transparent with employees about these controls and provide a clear rationale and guidelines for their use. |
 
-## 15. Controlling AI Tool Installation & Data Access
+## 13. Controlling AI Tool Installation & Data Access
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -160,7 +157,7 @@
 | Better | Provide a list of approved software and extensions that employees are permitted to install and use. Require IT approval for any software not on this list. Use permissions settings in your organization's software to prevent unapproved installations. |
 | Best | Implement a strict policy where only the IT department can install new software. Use centralized IT management tools to control software installations and updates on all company devices. Also, establish a whitelist of approved applications and blacklist unapproved or risky applications. Regularly educate employees on the risks of unauthorized software and the importance of data security. |
 
-## 16. Reporting New AI Uses
+## 14. Reporting New AI Uses
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -168,7 +165,7 @@
 | Better | Employees must report all significant uses of AI to their manager or designated person/process. |
 | Best | Employees must use the company's designated AI tracking system to document all significant uses of AI, including purpose, data inputs, and outcomes. |
 
-## 17. Integrating AI into Workflow
+## 15. Integrating AI into Workflow
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -176,7 +173,7 @@
 | Better | More on the side/experimentation with APIs. Mainly use tools, integrations / connecting up (Zapier). More thinking about how AI can fit into day-to-day workflows. |
 | Best | Experimental projects that incorporate LLMs, such as involving WordPress integrations, etc. Be mindful of policies needed to protect you around it. |
 
-## 18. AI Strategy for Organizations of Different Sizes
+## 16. AI Strategy for Organizations of Different Sizes
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -184,7 +181,7 @@
 | Better (Large Org) | Speak to other digital leads in similar organizations and wait until more formalized guidance or tools are developed. Set up experimental projects, mindful of policies needed to protect around AI. |
 | Best (Large Org with dedicated digital team) | Develop custom digital services with the integration of AI tools like GitHub Copilot and other LLMs. Experimental projects that incorporate LLMs with transfer learning to make domain-specific bots (if you have enough training data). |
 
-## 19. Integration with Other Organizational Policies
+## 17. Integration with Other Organizational Policies
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -192,7 +189,7 @@
 | Better | Conduct a formal review to ensure alignment of AI policies with other organizational policies such as HR, IT, and data governance. |
 | Best | Integrate AI policies into the organization's overall policy framework, ensuring consistency and alignment across all areas. Regularly review and update these to avoid contradictions or conflicts. |
 
-## 20. Transparency
+## 18. Transparency
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -200,7 +197,7 @@
 | Better | Implement a policy for using explainable AI models where possible. |
 | Best | Establish a commitment to transparency in AI applications, including the use of explainable AI models and clear communication about how AI decisions are made. |
 
-## 21. Continuous Review and Update of Policies
+## 19. Continuous Review and Update of Policies
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -211,8 +208,9 @@
 ---
 
 ## # Special Topics
+AI hallucinations (false statements made by AI) can lead to costly mistakes. Organizations should be aware of these issues and have strategies in place to handle them.
 
-## 22. Avoiding LLM Hallucinations
+## 20. Avoiding LLM Hallucinations
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -220,7 +218,7 @@
 | Better | Provide training to employees about common types of AI "hallucinations" and methods for identifying and mitigating them. |
 | Best | Implement a robust system of checks and balances for AI outputs including peer reviews, automated fact-checking, and manual validation. Include specific steps to address and learn from any identified hallucinations. |
 
-## 23. Ensuring AI Accuracy
+## 21. Ensuring AI Accuracy
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -228,7 +226,7 @@
 | Better | Require employees to review all products of AI for accuracy. This includes manually cross-verifying all assertions, assumptions, etc. |
 | Best | Develop a rigorous verification system involving multiple employees and automated processes. This system should include feedback loops to improve AI accuracy over time. Provide regular accuracy reports to promote accountability and continual improvement. |
 
-## 24. Accessibility and AI
+## 22. Accessibility and AI
 
 | Policy Level | Description |
 |--------------|-------------|
@@ -236,7 +234,7 @@
 | Better | Implement a policy requiring the use of AI tools that meet accessibility standards. |
 | Best | Establish a commitment to using AI to enhance accessibility. Implement training and guidelines for creating and using accessible AI systems. |
 
-## 25. External AI Services
+## 23. External AI Services
 
 | Policy Level | Description |
 |--------------|-------------|
