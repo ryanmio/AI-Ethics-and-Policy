@@ -1,6 +1,4 @@
-# AI Policy Guidelines Repository ![Star Badge](https://img.shields.io/github/stars/username/repo?style=social) ![Forks Badge](https://img.shields.io/github/forks/username/repo?style=social)
-
-![AI Ethics Image](./images/ai_ethics.png)
+# AI Policy Guidelines Repository ![Star Badge](https://img.shields.io/github/stars/ryanmio/Sample-AI-Policy?style=social) ![Forks Badge](https://img.shields.io/github/forks/ryanmio/Sample-AI-Policy?style=social)
 
 Welcome to my AI Policy Guidelines repository. This repository is a collection of policies, guidelines, and frameworks I've drafted with the aim of sharing my insights and best practices for the ethical and effective use of AI in organizations. The documents are designed to assist organizations in implementing and managing generative artificial intelligence (Generative AI).
 
@@ -13,5 +11,3 @@ The repository contains the following documents:
 3. [Sample AI Integration and Experimentation Policy](./sample-agency-ai-policy-long.md): ![Document Badge](https://img.shields.io/badge/Document-Sample%20AI%20Policy-blue) This sample policy document outlines an organization's approach to the ethical use of AI, promotion of experimentation, and protection against data breaches. It serves as a practical example of how the principles and guidelines can be applied in a real-world policy.
 
 I encourage industry peers to refer to these documents, provide feedback, and engage in a dialogue to advance the responsible and efficient use of AI in alignment with organizational missions and values.
-
-![AI Meme](./images/ai_meme.png)
