@@ -3,14 +3,14 @@
 
 Welcome to my AI Policy Guidelines repository. This repository is a platform where I publish my thoughts, insights, and drafted policies, guidelines, and frameworks on the ethical and effective use of AI in organizations. These documents are designed to assist organizations in implementing and managing generative artificial intelligence (Generative AI). 
 
-I invite everyone to evaluate, critique, and participate in the discussion. Remember, these are just my thoughts and I'm open to different perspectives and ideas. 
+I invite everyone to evaluate, critique, and participate in the discussion. These are just my thoughts and I'm open to other ideas. 
 
 The repository contains the following documents:
 
 1. [AI Principles Framework](./Draft%20Principles.md): 
-This is where I've put down my thoughts on how we should be using AI. It's all about keeping control, being accountable, making sure we can explain what the AI is doing, being able to undo its actions, guiding it ethically, and having our peers keep an eye on things. It's a starting point for a conversation about using AI in a way that's good for everyone.
+This is where I've put down my thoughts on how AI can be ethically integrated in the workplace. My framework centers the practicioners – all AI use would need to be accountable, explainable, reversible, ethically guiding, and with peer oversight. It's a starting point for a conversation about using AI in a way that's good for everyone.
 
-2. [AI Policy Guidelines](./Guidelines.md): This document is designed to assist organizations in effectively implementing and managing generative artificial intelligence (Generative AI). It is structured into categories, each addressing a significant aspect of AI use. Each topic within these categories is presented at three levels: Good, Better, and Best. These guidelines are intended to be referred to in light of an organization's specific context, resources, and strategic objectives. The goal is to incorporate AI in a responsible and efficient manner that aligns with your organization's mission and values.
+2. [AI Policy Guidelines](./Guidelines.md): This document is a collection of implementation strategies to assist organizations in managing generative artificial intelligence (Generative AI). Each topic is presented at three levels: Good, Better, and Best. These guidelines are intended to be referred to in light of an organization's specific context, resources, and strategic objectives.
 
 3. [Sample AI Integration and Experimentation Policy](./sample-agency-ai-policy-long.md):  This sample policy document outlines an organization's approach to the ethical use of AI, promotion of experimentation, and protection against data breaches. This was part of a collaborative attempt to draft a policy for the progressive political community.
 
