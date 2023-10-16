@@ -1,5 +1,5 @@
 # A.I. Integration for Progressive Organizations
-![Star Badge](https://img.shields.io/github/stars/ryanmio/Sample-AI-Policy?style=social) ![Forks Badge](https://img.shields.io/github/forks/ryanmio/Sample-AI-Policy?style=social)
+![Star Badge](https://img.shields.io/github/stars/ryanmio/AI-Ethics-and-Policy?style=social) ![Forks Badge](https://img.shields.io/github/forks/ryanmio/AI-Ethics-and-Policy?style=social)
 
 Welcome to my AI Policy Guidelines repository. This repository is a platform where I publish my thoughts, insights, and drafted policies, guidelines, and frameworks on the ethical and effective use of AI in organizations. These documents are designed to assist organizations in implementing and managing generative artificial intelligence (Generative AI). 
 
@@ -18,11 +18,11 @@ This is where I've put down my thoughts on how AI can be ethically integrated in
 
 I encourage industry peers to provide feedback and contribute to the dialogue. Here are a few ways you can provide feedback:
 
-1. **GitHub Discussion Board**: Join the conversation on our [GitHub Discussion Board](https://github.com/ryanmio/Sample-AI-Policy/discussions). This is a great place to share your thoughts and engage with the community.
+1. **GitHub Discussion Board**: Join the conversation on our [GitHub Discussion Board](https://github.com/ryanmio/AI-Ethics-and-Policy/discussions). This is a great place to share your thoughts and engage with the community.
 
-2. **Submit an Issue**: If you find a problem or have a suggestion, you can [submit an issue](https://github.com/ryanmio/Sample-AI-Policy/issues/new) on our GitHub repository.
+2. **Submit an Issue**: If you find a problem or have a suggestion, you can [submit an issue](https://github.com/ryanmio/AI-Ethics-and-Policy/issues/new) on our GitHub repository.
 
-3. **Submit a Pull Request**: If you've made changes that you think would improve the repository, please feel free to [submit a pull request](https://github.com/ryanmio/Sample-AI-Policy/pulls). Be sure to include a detailed description of your changes.
+3. **Submit a Pull Request**: If you've made changes that you think would improve the repository, please feel free to [submit a pull request](https://github.com/ryanmio/AI-Ethics-and-Policy/pulls). Be sure to include a detailed description of your changes.
 
 <br>
 
